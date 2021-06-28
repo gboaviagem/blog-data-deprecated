@@ -1,7 +1,7 @@
 ---
 title: Não "siga sua paixão" para escolher uma carreira de sucesso
 date: 2021-02-13
-description: Eu sei, pode parecer um assunto batido, mas não vi nenhum conselho de carreira melhor do que o livro So Good They Can’t Ignore You. E, para uma geração de múltiplas opções e que sonha com um propósito, a solidez dos comentários de Cal Newport é uma bússola que põe as coisas em ordem.
+description: Para uma geração de múltiplas opções e que sonha com um propósito, os conselhos de carreira de Cal Newport formam uma bússola que põe as coisas em ordem.
 tags:
   - Produtividade e foco
   - Prática deliberada

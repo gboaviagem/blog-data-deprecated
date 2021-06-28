@@ -1,7 +1,7 @@
 ---
 title: Quem você pensa que é?
 date: 2021-06-13
-description: 
+description: Há um risco à espreita de quem reflete sobre o próprio desenvolvimento, de quem se interessa por produtividade. Isso me veio à mente quando meu filho esteve no hospital.
 tags:
   - Partilha pessoal
 # cover: /images/tan-kaninthanond-BLkND9IJjPs-unsplash.jpg

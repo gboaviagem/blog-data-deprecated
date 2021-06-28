@@ -1,7 +1,7 @@
 ---
 title: Quem são seus concorrentes?
 date: 2021-01-01
-description: Alguns creem que enxergar seus colegas de faculdade ou de profissão como concorrentes seja uma boa fagulha de motivação. Seja aquele primeiro lugar da sala, ou seus parceiros da empresa que o superam em habilidades e conhecimento seguir seus passos e provar ser melhor que eles parece ser um caminho para o sucesso e um bom combustível para a própria evolução. Mas quais as consequências dessa postura? Trago aqui ideias de Simon Sinek e Charles Duhigg e aplico a esta questão.
+description: Alguns creem que enxergar seus colegas de faculdade ou de profissão como concorrentes seja uma boa fagulha de motivação. Mas será mesmo?
 tags:
   - Produtividade e foco
   - Jogo infinito
