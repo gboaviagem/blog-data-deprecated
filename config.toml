@@ -1,6 +1,7 @@
 # baseurl = "/"
 baseURL = "/"
 relativeURLs = "True"
+uglyurls = true
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 4
@@ -57,12 +58,12 @@ paginate = 4
       [[languages.en.menu.main]]
         identifier = "arquivo"
         name = "Arquivo"
-        url = "/arquivo"
+        url = "/arquivo/index.html"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Publicações externas"
-        url = "/posts-externos"
+        url = "/posts-externos.html"
       [[languages.en.menu.main]]
         identifier = "sobre"
         name = "Sobre"
-        url = "/sobre"
+        url = "/sobre.html"
