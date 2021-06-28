@@ -5,21 +5,21 @@
     
     
     
-    <link>https://gboaviagem.github.io/personal-blog/</link>
+    <link>/</link>
     <description>Recent content on Guilherme Boaviagem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gboaviagem.github.io/personal-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publicações externas</title>
-      <link>https://gboaviagem.github.io/personal-blog/posts-externos/</link>
+      <link>/posts-externos/</link>
       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/posts-externos/</guid>
+      <guid>/posts-externos/</guid>
       <description>
         
           
@@ -38,10 +38,10 @@ Grafos e recomendação de produtos: comparando Spark GraphFrames com Neo4j Publ
     
     <item>
       <title>Quem escreve</title>
-      <link>https://gboaviagem.github.io/personal-blog/sobre/</link>
+      <link>/sobre/</link>
       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/sobre/</guid>
+      <guid>/sobre/</guid>
       <description>
         
           
@@ -60,10 +60,10 @@ Fui professor substituto na UFPE, ministrando cursos de Cálculo e Estatística,
     
     <item>
       <title>Quem você pensa que é?</title>
-      <link>https://gboaviagem.github.io/personal-blog/posts/20210603-quem-voce-pensa-que-e/</link>
+      <link>/posts/20210603-quem-voce-pensa-que-e/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/posts/20210603-quem-voce-pensa-que-e/</guid>
+      <guid>/posts/20210603-quem-voce-pensa-que-e/</guid>
       <description>
         
           
@@ -82,10 +82,10 @@ O risco de se achar suficiente.
     
     <item>
       <title>Não &#34;siga sua paixão&#34; para escolher uma carreira de sucesso</title>
-      <link>https://gboaviagem.github.io/personal-blog/posts/20210213-nao-siga-sua-paixao/</link>
+      <link>/posts/20210213-nao-siga-sua-paixao/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/posts/20210213-nao-siga-sua-paixao/</guid>
+      <guid>/posts/20210213-nao-siga-sua-paixao/</guid>
       <description>
         
           
@@ -102,10 +102,10 @@ O risco de se achar suficiente.
     
     <item>
       <title>Mude sua visão sobre gestão de tempo</title>
-      <link>https://gboaviagem.github.io/personal-blog/posts/20210123-mude-sua-visao-sobre-gestao-de-tempo/</link>
+      <link>/posts/20210123-mude-sua-visao-sobre-gestao-de-tempo/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/posts/20210123-mude-sua-visao-sobre-gestao-de-tempo/</guid>
+      <guid>/posts/20210123-mude-sua-visao-sobre-gestao-de-tempo/</guid>
       <description>
         
           
@@ -122,10 +122,10 @@ O risco de se achar suficiente.
     
     <item>
       <title>Quem são seus concorrentes?</title>
-      <link>https://gboaviagem.github.io/personal-blog/posts/20210101-quem-sao-seus-concorrentes/</link>
+      <link>/posts/20210101-quem-sao-seus-concorrentes/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/posts/20210101-quem-sao-seus-concorrentes/</guid>
+      <guid>/posts/20210101-quem-sao-seus-concorrentes/</guid>
       <description>
         
           
@@ -142,10 +142,10 @@ O risco de se achar suficiente.
     
     <item>
       <title>Quê? Quem? Por quê? – O propósito.</title>
-      <link>https://gboaviagem.github.io/personal-blog/posts/20201226-que-quem-por-que-o-proposito/</link>
+      <link>/posts/20201226-que-quem-por-que-o-proposito/</link>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/posts/20201226-que-quem-por-que-o-proposito/</guid>
+      <guid>/posts/20201226-que-quem-por-que-o-proposito/</guid>
       <description>
         
           
@@ -162,10 +162,10 @@ O risco de se achar suficiente.
     
     <item>
       <title>Arquivo</title>
-      <link>https://gboaviagem.github.io/personal-blog/arquivo/</link>
+      <link>/arquivo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gboaviagem.github.io/personal-blog/arquivo/</guid>
+      <guid>/arquivo/</guid>
       <description>
         
           

@@ -1,5 +1,5 @@
 # baseurl = "/"
-baseURL = "https://gboaviagem.github.io/personal-blog"
+baseURL = "/"
 relativeURLs = "True"
 languageCode = "en-us"
 theme = "hello-friend"
