@@ -6,6 +6,8 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 4
 
+disqusShortname = "gboaviagem"
+
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -13,9 +15,6 @@ paginate = 4
 
   # "light" or "dark"
   defaultTheme = "light"
-
-  # Comments Engine (Disqus)
-  disqusShortname = "gboaviagem"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
