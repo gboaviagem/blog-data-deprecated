@@ -4,7 +4,7 @@ relativeURLs = "True"
 uglyurls = true
 languageCode = "en-us"
 theme = "hello-friend"
-paginate = 4
+paginate = 3
 
 disqusShortname = "gboaviagem"
 
