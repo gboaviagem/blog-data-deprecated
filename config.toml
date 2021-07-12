@@ -8,6 +8,8 @@ paginate = 3
 
 disqusShortname = "gboaviagem"
 
+googleAnalytics = "UA-276465263"
+
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
