@@ -1,5 +1,5 @@
 ---
-title: Três lições desse livro para o seu *home-office*
+title: Três lições que esse livro traz para o seu *home-office*
 date: 2021-07-11
 description: O que "*How to become a straight-A student*", de Cal Newport, pode ensinar para todo trabalhador da era digital.
 tags:
