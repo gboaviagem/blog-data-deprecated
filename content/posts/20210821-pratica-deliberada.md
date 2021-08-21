@@ -1,7 +1,7 @@
 ---
 title: David Blaine e o poder da prática deliberada
 date: 2021-08-21
-description: O que "*How to become a straight-A student*", de Cal Newport, pode ensinar para todo trabalhador imerso, de repente, no modelo de trabalho remoto.
+description: O que um mágico tem a ensinar para todos os trabalhadores do conhecimento sobre como aperfeiçoar suas habilidades. Com tempo e prática deliberada, os resultados parecem mágica.
 tags:
   - David Blaine
   - Prática deliberada
