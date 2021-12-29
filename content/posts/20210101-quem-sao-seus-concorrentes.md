@@ -3,8 +3,7 @@ title: Quem são seus concorrentes?
 date: 2021-01-01
 description: Alguns creem que enxergar seus colegas de faculdade ou de profissão como concorrentes seja uma boa fagulha de motivação. Mas será mesmo?
 tags:
-  - Produtividade e foco
-  - Jogo infinito
+  - Carreira
   - Charles Duhigg
   - Simon Sinek
 # banner: /images/ksenia-chernaya.jpeg

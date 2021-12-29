@@ -1,9 +1,10 @@
 ---
 title: Organize sua carreira como se fosse uma empresa ambidestra
-date: 2021-11-13
+date: 2021-12-28
 description: O que é uma carreira ambidestra? Neste post, eu explico o que é o ambidestrismo corporativo e como podemos aplicar a mesma ideia na gestão de nossas carreiras.
 tags:
-  - Carreira ambidestra
+  - Carreira
+  - Inovação
 # cover: /images/tan-kaninthanond-BLkND9IJjPs-unsplash.jpg
 ---
 

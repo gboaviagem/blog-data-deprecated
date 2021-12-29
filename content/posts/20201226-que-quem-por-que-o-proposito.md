@@ -2,8 +2,6 @@
 title: Quê? Quem? Por quê? – O propósito.
 date: 2020-12-26
 description: Este desejo de partilhar para que outros aprendam enquanto leem, ao mesmo tempo em que reforço o que compartilho, é uma motivação central por trás da criação deste blog.
-tags:
-  - Propósito
 draft: false
 banner: /images/mirko-herth.png
 ---

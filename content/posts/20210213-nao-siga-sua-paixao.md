@@ -5,7 +5,7 @@ description: Para uma geração de múltiplas opções e que sonha com um propó
 tags:
   - Produtividade e foco
   - Prática deliberada
-  - Capital de carreira
+  - Carreira
   - Cal Newport
 # banner: /images/ksenia-chernaya.jpeg
 ---
