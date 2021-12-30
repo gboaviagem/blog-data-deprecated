@@ -6,7 +6,7 @@ author = "Guilherme Boaviagem"
 
 Cientista de dados, pesquisador, esposo, pai. Não nessa ordem.
 
-Engenheiro Eletrônico por formação (UFPE/2016), concluí o mestrado em Eng. Elétrica pela UFPE em 2018, na área de processamento de sinais. Em 2018 dei início ao doutorado, em que pesquiso extensões de processamento de sinais e *machine learning* sobre grafos.
+Engenheiro Eletrônico por formação (UFPE/2016), concluí o mestrado em Eng. Elétrica pela UFPE em 2018, na área de processamento de sinais. Em 2018 dei início ao doutorado, em que pesquiso extensões de processamento de sinais sobre grafos.
 
 Fui professor substituto na UFPE, ministrando cursos de Cálculo e Estatística, e professor efetivo na Uninassau (Recife) em disciplinas para turmas de Eng. e Ciência da Computação, Sistemas da Informação e Eng. Elétrica.
 

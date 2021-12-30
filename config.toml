@@ -68,6 +68,10 @@ googleAnalytics = "276465263"
         name = "Publicações externas"
         url = "/posts-externos.html"
       [[languages.en.menu.main]]
+        identifier = "readinglist"
+        name = "Leituras"
+        url = "/reading-list.html"
+      [[languages.en.menu.main]]
         identifier = "sobre"
         name = "Sobre"
         url = "/sobre.html"
